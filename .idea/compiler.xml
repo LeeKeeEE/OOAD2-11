@@ -19,6 +19,7 @@
         <module name="region" />
         <module name="gateway" />
         <module name="jtexpress" />
+        <module name="customer" />
       </profile>
     </annotationProcessing>
   </component>
@@ -26,6 +27,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="alipay" options="-parameters" />
       <module name="core" options="-parameters" />
+      <module name="customer" options="-parameters" />
       <module name="freight" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="jtexpress" options="-parameters" />
